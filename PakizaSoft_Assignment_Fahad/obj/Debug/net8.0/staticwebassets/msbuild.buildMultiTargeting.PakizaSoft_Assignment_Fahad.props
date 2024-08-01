@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PakizaSoft_Assignment_Fahad.props" />
+</Project>

@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+    <div class="homesection d-flex flex-column justify-content-center pl-5" id="homesection" style="margin-top:-100px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-4 order-1 order-md-2 ">
+                    <img src="fahad.JPG" class="img mb-3 " />
+                </div>
+                <div class="col-12  text order-2 order-md-1 col-md-8">
+                    <h1 class="title">Hello, I'm <span class="name">Md. Fahad Pramanik</span></h1>
+                    <h1 class="heading">ASP.NET Developer & Designer</h1>
+                    <p class="profile">
+                        Highly motivated and enthusiastic .NET developer with a passion for learning and problemsolving. Proficient in C#, ASP.NET, and SQL Server, with a strong foundation in object-oriented
+                        programming principles. Eager to contribute to dynamic projects and collaborate with talented
+                        teams to deliver innovative solutions. Dedicated to continuous self-improvement and staying
+                        updated with the latest technologies in the field.
+                    </p>
+                    <div class="d-flex flex-row mt-4">
+                        <div class="icon-container">
+                            <i class="bi bi-facebook icon1"></i>
+                        </div>
+                        <div class="icon-container">
+                            <i class="bi bi-instagram icon1"></i>
+                        </div>
+                        <div class="icon-container">
+                            <i class="bi bi-envelope icon1"></i>
+                        </div>
+                        <div class="icon-container">
+                            <i class="bi bi-linkedin icon1"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+@section styles
+{
+    <link href="~/libs/icons/font/bootstrap-icons.css" rel="stylesheet" />
+
+    <style>
+        .homesection {
+            height: 100vh;
+            background-size: cover;
+        }
+
+        .title {
+            font-size: 25px;
+        }
+
+        .name {
+            color: red;
+        }
+
+        img {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
+        }
+
+            img:hover {
+                box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+            }
+
+        .heading {
+            font-family: "Roboto";
+            font-size: 36px;
+            color: white;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+
+        .icon1 {
+            font-size: 25px;
+        }
+
+        .icon-container {
+            margin-right: 6px;
+            padding-top: 16px;
+            padding-bottom: 9px;
+            padding-right: 12px;
+            padding-left: 16px;
+            transition: 0.5s;
+        }
+
+            .icon-container:hover {
+                color: blue;
+                text-decoration: none;
+            }
+
+        .profile {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+    </style>
+}

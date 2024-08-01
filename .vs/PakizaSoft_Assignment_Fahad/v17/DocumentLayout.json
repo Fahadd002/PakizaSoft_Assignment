@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\_productaddform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\_productaddform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\_itemlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\_itemlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\_producteditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\_producteditform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\viewmodels\\orderinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\viewmodels\\orderinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\hostedservices\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\hostedservices\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\hostedservices\\productdbseederhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\hostedservices\\productdbseederhostedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\orders\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\orders\\print.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|c:\\users\\fahad\\desktop\\pakizasoft_assignment_fahad\\pakizasoft_assignment_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98C0BC06-4E82-4E9E-97D7-4C268FD4ACE4}|PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad.csproj|solutionrelative:pakizasoft_assignment_fahad\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\PakizaSoft_Assignment_Fahad.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ItemList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Controllers\\OrdersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Models\\DbModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ProductEditForm.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderItemViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\NewOrderModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderInputModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:22:06.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ProductAddForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductAddForm.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductAddForm.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductAddForm.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductAddForm.cshtml",
+              "ViewState": "AQIAAAQAAADYAAAAAAAhwAQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T10:58:00.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ItemList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ItemList.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ItemList.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ItemList.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ItemList.cshtml",
+              "ViewState": "AQIAABQAAABAMzMzMzMrwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:33:38.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\ViewModels\\OrderInputModel.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\ViewModels\\OrderInputModel.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\ViewModels\\OrderInputModel.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\ViewModels\\OrderInputModel.cs",
+              "ViewState": "AQIAAAAAAABAZmZmZmYUwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:24:09.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAgBAAAAepmZmVkvwA0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:57:33.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\HostedServices\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\HostedServices\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\HostedServices\\DbSeeder.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\HostedServices\\DbSeeder.cs",
+              "ViewState": "AQIAABIAAAAAZGZmZmYUwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:09:42.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Models\\DbModel.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Models\\DbModel.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Models\\DbModel.cs",
+              "ViewState": "AQIAAD8AAADwyMzMzEw4wEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:01:30.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AQIAAKUAAAAAOTMzM/MmwGsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:06:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:25:58.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:58:33.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ProductEditForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductEditForm.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductEditForm.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductEditForm.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\_ProductEditForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T11:07:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Program.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Program.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Program.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:45:44.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Print.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Print.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Print.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Orders\\Print.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Orders\\Print.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:30:00.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAABgAAAAAAAhwB8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:55:30.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDbSeederHostedService.cs",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\HostedServices\\ProductDbSeederHostedService.cs",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\HostedServices\\ProductDbSeederHostedService.cs",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\HostedServices\\ProductDbSeederHostedService.cs",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\HostedServices\\ProductDbSeederHostedService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T11:09:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T10:15:04.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T08:55:10.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\libman.json",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\libman.json",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\libman.json",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T08:45:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\appsettings.json",
+              "RelativeDocumentMoniker": "PakizaSoft_Assignment_Fahad\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fahad\\Desktop\\PakizaSoft_Assignment_Fahad\\PakizaSoft_Assignment_Fahad\\appsettings.json",
+              "RelativeToolTip": "PakizaSoft_Assignment_Fahad\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-01T08:45:50.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Program.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:40:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PakizaSoft_Assignment_Fahad.csproj",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\PakizaSoft_Assignment_Fahad.csproj",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\PakizaSoft_Assignment_Fahad.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T08:40:21.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ItemList.cshtml",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ItemList.cshtml",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ItemList.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T05:02:29.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Create.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T04:53:35.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Controllers\\OrdersController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T04:31:34.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Models\\DbModel.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Models\\DbModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:42:48.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ProductEditForm.cshtml",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ProductEditForm.cshtml",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\_ProductEditForm.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T05:16:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderItemViewModel.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderItemViewModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T04:42:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewOrderModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\NewOrderModel.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\NewOrderModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:22:30.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderInputModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderInputModel.cs",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\ViewModels\\OrderInputModel.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:21:41.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\Final_Project\\Pakija\\PakijaSoft_Assuignbment\\PakijaSoft_Assuignbment\\Views\\Orders\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T06:16:42.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
