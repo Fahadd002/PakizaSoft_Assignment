@@ -1,6 +1,6 @@
 ﻿@model OrderItemViewModel
 <div class="form-group row mb-1">
-    <label asp-for="ProductId" class="col-form-label col-2 text-end"></label>
+    <label asp-for="ProductId" class="col-form-label col-2 text-end">Product Name</label>
     <div class="col-2">
         <input type="text" asp-for="ProductId" class="form-control" list="products" />
         <span asp-validation-for="ProductId" class="text-danger small"></span>
